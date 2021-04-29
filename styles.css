@@ -1,0 +1,24 @@
+body {
+    background-color: #aef59a;
+}
+
+.proffesor {
+    width: 300px;
+}
+
+.mitch {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.About {
+    outline: 3px dotted #22223b;
+    color: #F84F26;
+}
+
+.work {
+    font-family: 'Orelega One', cursive;
+}
+
+ul {
+    font-family: 'Righteous', cursive;
+}
